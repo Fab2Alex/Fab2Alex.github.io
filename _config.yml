@@ -6,9 +6,9 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Edit _config.yml to set your title!
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
-github_username: jph00
+title: Blog sur l'Intelligence Artificielle!
+description: Ce blog est a but éducatif, en français car les ressources sur l'IA en français sont plutot faibles ❤
+github_username: Fab2Alex, deux gars qui aiment bien travailler sur l'IA et partager leur savoir
 
 # Email and twitter are optional:
 email: 
