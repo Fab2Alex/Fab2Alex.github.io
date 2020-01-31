@@ -1,7 +1,5 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). 
-
-
- Voilà comment inclure une image
+Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). Voilà comment inclure une image:
+ 
 ![Image of fast.ai logo](images/logo.png)
 
 ## This is a title
