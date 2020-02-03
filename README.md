@@ -1,1 +1,1 @@
-# Deep learning blog for cool projects
+# Deep learning blog for cool projects in python :)
