@@ -1,1 +1,1 @@
-# Vous trouverez ici différents projets, leur description, expliction, details étape par étape.
+# Deep learning blog for cool projects
